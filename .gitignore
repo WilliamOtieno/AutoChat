@@ -1,2 +1,3 @@
 .idea
 chatenv
+__pycache__/
