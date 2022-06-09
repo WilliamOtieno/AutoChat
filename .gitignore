@@ -1,3 +1,4 @@
 .idea
 chatenv
 __pycache__/
+script.py
