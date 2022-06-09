@@ -2,7 +2,7 @@ APScheduler==3.6.3
 certifi==2020.4.5.1
 chardet==3.0.4
 idna==2.9
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2020.1
 requests==2.23.0
 six==1.15.0
