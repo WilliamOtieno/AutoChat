@@ -2,3 +2,4 @@
 chatenv
 __pycache__/
 script.py
+nohup.*
