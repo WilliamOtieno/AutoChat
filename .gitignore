@@ -2,5 +2,5 @@
 chatenv
 __pycache__/
 script.py
-nohup.*
+nohup.out
 logs.*
